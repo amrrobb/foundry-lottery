@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# foundry-lottery
-Learn to build smart contract for lottery with foundry
-=======
 ## Foundry
-=======
- ## Foundry
->>>>>>> 9568a79 (Initial commit)
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -72,9 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-<<<<<<< HEAD
->>>>>>> 9ca6a61 (chore: forge init)
-=======
 
 ## What we want it to do?
 1.  Users can enter by paying for a ticket 
@@ -92,10 +81,3 @@ $ cast --help
    2. Forked Testnet
    3. Forked Mainnet
 
-
-<!-- 3:25:00 -->
-<!-- 4:00:00 -->
-<!-- 5:05:05 -->
-<!-- 5:10:05 -->
-<!-- 5:26:05 -->
->>>>>>> 9568a79 (Initial commit)
